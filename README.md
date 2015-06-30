@@ -5,8 +5,11 @@ This package contains functions to get the percentage of resemblance (likeness, 
 The algorithm used is actually quite simple : it does a case-insensitive **levenshtein distance**, and also ignores non-alphanumerical characters (such as spaces, dashes, dots, etc).
 
 > Quick jump to examples :
+
 > [Simple string resemblance](#ex1)
+
 > [Object resemblance](#ex2)
+
 > [Get similar objects from a set](#ex3)
 
 ## How to use ?
