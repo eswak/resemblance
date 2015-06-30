@@ -1,7 +1,7 @@
 {
   "name": "resemblance",
   "version": "1.0.0",
-  "description": "Returns the percentage of resemblance between two strings / objects",
+  "description": "Returns the percentage of resemblance (likeness, similarity) between two strings / objects",
   "main": "resemblance.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
