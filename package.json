@@ -1,0 +1,32 @@
+{
+  "name": "resemblance",
+  "version": "1.0.0",
+  "description": "Returns the percentage of resemblance between two strings / objects",
+  "main": "resemblance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eswak/resemblance"
+  },
+  "keywords": [
+    "resemblance",
+    "likeness",
+    "string",
+    "object",
+    "compare",
+    "distance"
+  ],
+  "author": "@eswak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eswak/resemblance/issues"
+  },
+  "homepage": "https://github.com/eswak/resemblance",
+  "dependencies": {
+    "diacritics": "^1.2.1",
+    "fast-levenshtein": "^1.0.6",
+    "lodash": "^3.9.3"
+  }
+}
